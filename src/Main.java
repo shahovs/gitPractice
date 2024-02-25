@@ -1,3 +1,4 @@
+// feature v2
 // feature v1
 // 4 version
 // 3 version
@@ -10,5 +11,6 @@ public class Main {
         System.out.println("String3");
         System.out.println("String4");
         System.out.println("Feature v1");
+        System.out.println("Feature v2");
     }
 }
