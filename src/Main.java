@@ -1,3 +1,4 @@
+// master v6
 // master v5
 // feature v2
 // feature v1
@@ -14,5 +15,6 @@ public class Main {
         System.out.println("Feature v1");
         System.out.println("Feature v2");
         System.out.println("master v5");
+        System.out.println("master v6");
     }
 }
